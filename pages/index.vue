@@ -1,5 +1,7 @@
 <template>
-  <div>
-    <h1 v-t="'hello'" />
-  </div>
+ <v-container grid-lost-xs>
+    <div>  
+     <h1>panprom</h1>
+    </div>
+  </v-container>
 </template>
